@@ -52,3 +52,28 @@ Today, my focus is on combining AI with UX Engineering to improve product qualit
 - AI-assisted Design Workflows
 - Prompt Engineering
 - AI-powered Frontend Development
+
+
+---
+
+## Currently Building
+
+I'm actively investing in the intersection of **Enterprise UX**, **AI**, and **Frontend Engineering**.
+
+Current focus areas include:
+
+- AI-assisted UX Engineering workflows
+- Enterprise Design Systems & Design Tokens
+- React & Next.js architecture for scalable products
+- Accessibility-first component libraries (WCAG)
+- AI-powered developer and designer productivity
+- Modern frontend engineering practices
+- Building a public portfolio of production-quality AI projects
+
+---
+
+## Professional Philosophy
+
+I believe great digital products are built where **strategy, design, engineering, and AI** work together.
+
+Rather than treating UX and development as separate disciplines, I focus on creating scalable systems that improve user experience, developer experience, and long-term product quality.

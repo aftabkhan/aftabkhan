@@ -53,7 +53,6 @@ Today, my focus is on combining AI with UX Engineering to improve product qualit
 - Prompt Engineering
 - AI-powered Frontend Development
 
-
 ---
 
 ## Currently Building
@@ -82,7 +81,7 @@ Rather than treating UX and development as separate disciplines, I focus on crea
 
 ## Featured Work
 
-The repositories below represent the areas I'm actively investing in.
+The repositories below represent the public projects I'm actively building for my portfolio.
 
 | Project | Status | Focus |
 |----------|--------|-------|
@@ -90,10 +89,8 @@ The repositories below represent the areas I'm actively investing in.
 | Design Token Studio | 🚧 Planned | Design Systems |
 | Accessibility Reviewer | 🚧 Planned | WCAG Automation |
 | Component Documentation Generator | 🚧 Planned | Storybook & AI |
-| Learning | 🚀 Active | AI, React & Design Systems |
-| Assignment Archive | 🚀 Active | Interview Solutions & Engineering Practices |
 
-> These projects are being developed publicly as part of my continuous learning and engineering journey.
+> Public showcase repositories will be added here as they reach a presentable stage.
 
 ---
 

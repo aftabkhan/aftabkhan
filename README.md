@@ -86,7 +86,7 @@ The repositories below represent the public projects I'm actively building for m
 
 | Project | Status | Focus |
 |----------|--------|-------|
-| AI UX Audit Lite | 🚧 In Progress | AI-assisted UX Reviews |
+| [AI UX Audit Lite](https://github.com/aftabkhan/ai-ux-audit-lite) | ✅ MVP Complete | AI-assisted UX Reviews |
 | Design Token Studio | 🚧 Planned | Design Systems |
 | Accessibility Reviewer | 🚧 Planned | WCAG Automation |
 | Component Documentation Generator | 🚧 Planned | Storybook & AI |

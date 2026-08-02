@@ -77,3 +77,30 @@ Current focus areas include:
 I believe great digital products are built where **strategy, design, engineering, and AI** work together.
 
 Rather than treating UX and development as separate disciplines, I focus on creating scalable systems that improve user experience, developer experience, and long-term product quality.
+
+---
+
+## Featured Work
+
+The repositories below represent the areas I'm actively investing in.
+
+| Project | Status | Focus |
+|----------|--------|-------|
+| AI UX Audit Lite | 🚧 In Progress | AI-assisted UX Reviews |
+| Design Token Studio | 🚧 Planned | Design Systems |
+| Accessibility Reviewer | 🚧 Planned | WCAG Automation |
+| Component Documentation Generator | 🚧 Planned | Storybook & AI |
+| Learning | 🚀 Active | AI, React & Design Systems |
+| Assignment Archive | 🚀 Active | Interview Solutions & Engineering Practices |
+
+> These projects are being developed publicly as part of my continuous learning and engineering journey.
+
+---
+
+## Connect
+
+- 🌐 Portfolio: https://aftabkhan.net
+- 💼 LinkedIn: https://linkedin.com/in/aftab-khan
+- 📧 Email: aftabkhan.india@gmail.com
+
+Thanks for visiting my profile.

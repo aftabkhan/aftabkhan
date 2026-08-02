@@ -48,6 +48,7 @@ Today, my focus is on combining AI with UX Engineering to improve product qualit
 
 ### AI-Enabled Engineering
 - ChatGPT
+- Claude
 - GitHub Copilot
 - AI-assisted Design Workflows
 - Prompt Engineering

@@ -137,7 +137,7 @@ I’m focused on roles where design and engineering overlap, particularly:
 - Complex workflow simplification
 - Design-to-code collaboration
 
-I’m also building a small portfolio of practical AI-assisted tools that demonstrate end-to-end product thinking without exposing commercial product IP.
+I’m also building a focused portfolio of practical AI-assisted tools that demonstrate end-to-end product thinking, UX engineering and implementation.
 
 ---
 

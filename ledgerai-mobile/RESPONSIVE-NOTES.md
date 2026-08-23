@@ -2,9 +2,9 @@
 
 LedgerAI is intentionally adaptive rather than scaled down.
 
-- >= 1181px: full desktop workspace with four KPI cards and data table.
-- 901–1180px: compact laptop/tablet workspace with collapsed sidebar, two-column metrics, full-width chart/review panels, and horizontally safe transaction table.
-- <= 900px: mobile-first review experience with touch-friendly cards and bottom navigation.
-- <= 520px: tighter spacing, stacked sheet actions, full-width controls, and safe text wrapping.
+- Above 1100px: full desktop workspace with four KPI cards, persistent sidebar and data table.
+- 761–1100px: compact laptop/tablet workspace with collapsed sidebar, two-column metrics, full-width chart/review panels and a horizontally safe transaction table.
+- 431–760px: mobile-first experience with fixed top context, touch-friendly cards, bottom navigation and a bottom-sheet review flow.
+- Up to 430px: single-column metrics and details with stacked sheet actions.
 
-Accessibility includes visible focus states and `prefers-reduced-motion` handling.
+Accessibility coverage includes a skip link, visible focus states, reduced-motion support, semantic dialog labelling, focus entry/restoration, keyboard focus containment, meaningful chart context and announced empty states.

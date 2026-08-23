@@ -27,3 +27,15 @@ Overview → Transactions → AI Review Queue → Transaction Detail → Categor
 ## Portfolio note
 
 LedgerAI is an independent concept created to demonstrate product design, responsive UX, interaction design and frontend implementation capability. It is not presented as client or production work.
+
+## Demo release validation
+
+Release work is maintained on the `demo/ledgerai-release` branch until review is complete. The profile landing page remains unchanged.
+
+The demo is validated with the dependency-free Node script:
+
+```bash
+node scripts/validate-ledgerai.mjs
+```
+
+GitHub Actions runs the same checks for every change to the demo branch.

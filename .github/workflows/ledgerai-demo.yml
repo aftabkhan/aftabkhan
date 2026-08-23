@@ -1,0 +1,32 @@
+name: LedgerAI demo validation
+
+on:
+  push:
+    branches:
+      - demo/ledgerai-release
+    paths:
+      - "ledgerai-mobile/**"
+      - "scripts/validate-ledgerai.mjs"
+      - ".github/workflows/ledgerai-demo.yml"
+  pull_request:
+    paths:
+      - "ledgerai-mobile/**"
+      - "scripts/validate-ledgerai.mjs"
+      - ".github/workflows/ledgerai-demo.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate standalone demo
+        run: node scripts/validate-ledgerai.mjs
